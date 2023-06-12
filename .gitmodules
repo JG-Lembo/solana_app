@@ -1,0 +1,6 @@
+[submodule "solana_app_frontend"]
+	path = frontend
+	url = https://github.com/JG-Lembo/solana_app_frontend.git
+[submodule "solana_app_backend"]
+	path = backend
+	url = https://github.com/JG-Lembo/solana_app_backend.git
